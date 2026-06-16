@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0344-reverse-string) |
 | [0832-flipping-an-image](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
 ## Binary Search
