@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0169-majority-element) |
 | [0832-flipping-an-image](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0867-transpose-matrix) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0169-majority-element) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
@@ -56,6 +58,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,4 +84,12 @@
 | ------- |
 | [0832-flipping-an-image](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0867-transpose-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
