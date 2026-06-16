@@ -13,6 +13,7 @@
 | [0832-flipping-an-image](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0867-transpose-matrix) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3895-count-digit-appearances](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3895-count-digit-appearances) |
@@ -84,6 +85,7 @@
 | ------- |
 | [0832-flipping-an-image](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0867-transpose-matrix) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
