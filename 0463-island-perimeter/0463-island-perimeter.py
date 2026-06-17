@@ -4,9 +4,9 @@ class Solution:
 
         for r in range(len(grid)):
             for c in range(len(grid[0])):
-
+                
                 if grid[r][c] == 1:
-                    p += 4
+                    p  += 4 
 
                     if r > 0 and grid[r - 1][c] == 1:
                         p -= 2
