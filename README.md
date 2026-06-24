@@ -21,6 +21,7 @@
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -58,6 +59,7 @@
 | [0832-flipping-an-image](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0867-transpose-matrix) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Two Pointers
 |  |
 | ------- |
@@ -67,6 +69,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
