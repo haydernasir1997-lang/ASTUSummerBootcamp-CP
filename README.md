@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0217-contains-duplicate) |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0217-contains-duplicate) |
@@ -114,6 +116,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0036-valid-sudoku) |
 | [0463-island-perimeter](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0463-island-perimeter) |
 | [0832-flipping-an-image](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0867-transpose-matrix) |
