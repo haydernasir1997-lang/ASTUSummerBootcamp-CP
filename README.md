@@ -28,6 +28,7 @@
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3895-count-digit-appearances](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3895-count-digit-appearances) |
@@ -165,4 +166,5 @@
 | [0594-longest-harmonious-subsequence](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0643-maximum-average-subarray-i) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 <!---LeetCode Topics End-->
