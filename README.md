@@ -42,6 +42,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0268-missing-number) |
@@ -52,6 +53,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -151,5 +153,6 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0076-minimum-window-substring) |
 | [0643-maximum-average-subarray-i](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
