@@ -1,10 +1,6 @@
-from collections import defaultdict
-
 class Solution:
     def isValidSudoku(self, board):
-        rows = defaultdict(set)
-        cols = defaultdict(set)
-        boxes = defaultdict(set)
+        seen = set()
 
         for r in range(9):
             for c in range(9):
@@ -13,17 +9,13 @@ class Solution:
                 if num == ".":
                     continue
 
-                box = (r // 3, c // 3)
-
-                if (
-                    num in rows[r]
-                    or num in cols[c]
-                    or num in boxes[box]
-                ):
+                if ((r, num) in seen or
+                    (num, c) in seen or
+                    (r // 3, c // 3, num) in seen):
                     return False
 
-                rows[r].add(num)
-                cols[c].add(num)
-                boxes[box].add(num)
+                seen.add((r, num))
+                seen.add((num, c))
+                seen.add((r // 3, c // 3, num))
 
         return True
