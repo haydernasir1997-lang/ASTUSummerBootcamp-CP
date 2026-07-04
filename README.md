@@ -66,6 +66,7 @@
 | [0049-group-anagrams](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -85,6 +86,7 @@
 | [0027-remove-element](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
