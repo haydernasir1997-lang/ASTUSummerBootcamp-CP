@@ -62,6 +62,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0076-minimum-window-substring) |
@@ -82,6 +83,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0042-trapping-rain-water) |
 | [0287-find-the-duplicate-number](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0344-reverse-string) |
@@ -178,4 +180,8 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2760-longest-even-odd-subarray-with-threshold) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
