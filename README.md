@@ -14,6 +14,7 @@
 | [0169-majority-element](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0414-third-maximum-number) |
@@ -88,6 +89,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0345-reverse-vowels-of-a-string) |
