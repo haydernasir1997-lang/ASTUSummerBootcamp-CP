@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0268-missing-number) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2769-find-the-maximum-achievable-number](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2769-find-the-maximum-achievable-number) |
@@ -126,6 +127,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0070-climbing-stairs) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -190,4 +192,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
