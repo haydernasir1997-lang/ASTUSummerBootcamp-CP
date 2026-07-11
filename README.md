@@ -38,6 +38,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0268-missing-number) |
