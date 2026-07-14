@@ -43,6 +43,7 @@
 | [0007-reverse-integer](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0268-missing-number) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -157,6 +158,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0029-divide-two-integers) |
 | [0191-number-of-1-bits](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0287-find-the-duplicate-number) |
