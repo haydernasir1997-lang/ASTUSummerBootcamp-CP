@@ -51,6 +51,7 @@
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2769-find-the-maximum-achievable-number](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2769-find-the-maximum-achievable-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3895-count-digit-appearances](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3895-count-digit-appearances) |
 ## Hash Table
 |  |
