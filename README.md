@@ -36,6 +36,7 @@
 | [2545-sort-the-students-by-their-kth-score](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3895-count-digit-appearances](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3895-count-digit-appearances) |
@@ -92,6 +93,7 @@
 | [0867-transpose-matrix](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0867-transpose-matrix) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
 |  |
 | ------- |
