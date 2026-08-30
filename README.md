@@ -50,6 +50,7 @@
 | [0029-divide-two-integers](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0368-largest-divisible-subset) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2769-find-the-maximum-achievable-number](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2769-find-the-maximum-achievable-number) |
@@ -126,6 +127,7 @@
 | [0268-missing-number](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0367-valid-perfect-square) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
