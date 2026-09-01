@@ -14,6 +14,7 @@
 | [0036-valid-sudoku](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
+| [0164-maximum-gap](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0268-missing-number) |
@@ -136,6 +137,7 @@
 | [0015-3sum](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0049-group-anagrams) |
+| [0164-maximum-gap](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0268-missing-number) |
@@ -249,4 +251,16 @@
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0365-water-and-jug-problem) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
