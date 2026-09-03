@@ -163,6 +163,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0094-binary-tree-inorder-traversal) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Greedy
 |  |
@@ -205,6 +206,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0094-binary-tree-inorder-traversal) |
 | [0365-water-and-jug-problem](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0365-water-and-jug-problem) |
 | [0463-island-perimeter](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
@@ -271,4 +273,12 @@
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0212-word-search-ii) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
