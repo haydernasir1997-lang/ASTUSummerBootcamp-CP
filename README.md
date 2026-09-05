@@ -93,6 +93,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0824-goat-latin](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0824-goat-latin) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3110-score-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3760-maximum-substrings-with-distinct-start) |
