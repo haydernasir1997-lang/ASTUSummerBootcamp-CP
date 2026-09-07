@@ -59,6 +59,7 @@
 | [0412-fizz-buzz](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0412-fizz-buzz) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2769-find-the-maximum-achievable-number](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2769-find-the-maximum-achievable-number) |
+| [3099-harshad-number](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
