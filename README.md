@@ -82,6 +82,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -110,6 +111,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -159,6 +161,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0368-largest-divisible-subset) |
@@ -296,4 +299,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0215-kth-largest-element-in-an-array) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
