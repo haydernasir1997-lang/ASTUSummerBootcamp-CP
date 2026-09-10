@@ -30,6 +30,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0643-maximum-average-subarray-i) |
 | [0832-flipping-an-image](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0867-transpose-matrix) |
+| [0905-sort-array-by-parity](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0977-squares-of-a-sorted-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -132,6 +133,7 @@
 | [0392-is-subsequence](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
+| [0905-sort-array-by-parity](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1768-merge-strings-alternately) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -163,6 +165,7 @@
 | [0368-largest-divisible-subset](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0414-third-maximum-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0594-longest-harmonious-subsequence) |
+| [0905-sort-array-by-parity](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0977-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2545-sort-the-students-by-their-kth-score) |
