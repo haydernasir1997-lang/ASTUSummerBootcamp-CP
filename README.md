@@ -44,6 +44,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3523-make-array-non-decreasing](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3523-make-array-non-decreasing) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3895-count-digit-appearances](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3895-count-digit-appearances) |
 ## Math
@@ -187,16 +188,19 @@
 | [0042-trapping-rain-water](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0094-binary-tree-inorder-traversal) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3523-make-array-non-decreasing](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3523-make-array-non-decreasing) |
 ## Greedy
 |  |
 | ------- |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3523-make-array-non-decreasing](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3523-make-array-non-decreasing) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0042-trapping-rain-water) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3523-make-array-non-decreasing](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3523-make-array-non-decreasing) |
 ## Bit Manipulation
 |  |
 | ------- |
