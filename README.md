@@ -32,6 +32,7 @@
 | [0867-transpose-matrix](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0977-squares-of-a-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -60,6 +61,7 @@
 | [0367-valid-perfect-square](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0368-largest-divisible-subset) |
 | [0412-fizz-buzz](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0412-fizz-buzz) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2769-find-the-maximum-achievable-number](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2769-find-the-maximum-achievable-number) |
 | [3099-harshad-number](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3099-harshad-number) |
