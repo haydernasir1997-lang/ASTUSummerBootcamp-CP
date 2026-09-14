@@ -41,6 +41,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -107,6 +108,7 @@
 | [0824-goat-latin](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0824-goat-latin) |
 | [1768-merge-strings-alternately](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1768-merge-strings-alternately) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2255-count-prefixes-of-a-given-string) |
 | [3110-score-of-a-string](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3110-score-of-a-string) |
 | [3163-string-compression-iii](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3163-string-compression-iii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3760-maximum-substrings-with-distinct-start) |
