@@ -48,6 +48,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3523-make-array-non-decreasing](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3523-make-array-non-decreasing) |
+| [3678-smallest-absent-positive-greater-than-average](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3701-compute-alternating-sum](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3895-count-digit-appearances](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3895-count-digit-appearances) |
@@ -85,6 +86,7 @@
 | [0268-missing-number](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0594-longest-harmonious-subsequence) |
+| [3678-smallest-absent-positive-greater-than-average](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
