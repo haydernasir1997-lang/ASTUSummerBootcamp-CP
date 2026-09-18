@@ -30,6 +30,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0594-longest-harmonious-subsequence) |
 | [0624-maximum-distance-in-arrays](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0739-daily-temperatures) |
 | [0832-flipping-an-image](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0905-sort-array-by-parity) |
@@ -200,6 +201,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0094-binary-tree-inorder-traversal) |
+| [0739-daily-temperatures](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0739-daily-temperatures) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3523-make-array-non-decreasing](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3523-make-array-non-decreasing) |
 ## Greedy
@@ -213,6 +215,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0739-daily-temperatures) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3523-make-array-non-decreasing](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3523-make-array-non-decreasing) |
 ## Bit Manipulation
