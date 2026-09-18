@@ -88,6 +88,7 @@
 | [0268-missing-number](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0594-longest-harmonious-subsequence) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -113,6 +114,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0824-goat-latin](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0824-goat-latin) |
 | [1768-merge-strings-alternately](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1768-merge-strings-alternately) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2255-count-prefixes-of-a-given-string) |
 | [3110-score-of-a-string](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3110-score-of-a-string) |
@@ -248,6 +250,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0594-longest-harmonious-subsequence) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -267,6 +270,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0643-maximum-average-subarray-i) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 ## String Matching
