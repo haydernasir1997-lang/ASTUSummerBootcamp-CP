@@ -121,6 +121,7 @@
 | [3110-score-of-a-string](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3110-score-of-a-string) |
 | [3163-string-compression-iii](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3163-string-compression-iii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3794-reverse-string-prefix](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3794-reverse-string-prefix) |
 ## Simulation
 |  |
 | ------- |
@@ -158,6 +159,7 @@
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3794-reverse-string-prefix](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
 |  |
 | ------- |
