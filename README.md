@@ -45,6 +45,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2607-make-k-subarray-sums-equal](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2607-make-k-subarray-sums-equal) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -70,6 +71,7 @@
 | [0836-rectangle-overlap](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0836-rectangle-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2607-make-k-subarray-sums-equal](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2607-make-k-subarray-sums-equal) |
 | [2769-find-the-maximum-achievable-number](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2769-find-the-maximum-achievable-number) |
 | [3099-harshad-number](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -189,6 +191,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0977-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2607-make-k-subarray-sums-equal](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2607-make-k-subarray-sums-equal) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
@@ -215,6 +218,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0624-maximum-distance-in-arrays) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2607-make-k-subarray-sums-equal](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2607-make-k-subarray-sums-equal) |
 | [3523-make-array-non-decreasing](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3523-make-array-non-decreasing) |
 ## Monotonic Stack
 |  |
@@ -349,4 +353,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0836-rectangle-overlap) |
+## Number Theory
+|  |
+| ------- |
+| [2607-make-k-subarray-sums-equal](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2607-make-k-subarray-sums-equal) |
 <!---LeetCode Topics End-->
