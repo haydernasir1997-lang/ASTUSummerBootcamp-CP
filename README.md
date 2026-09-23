@@ -42,6 +42,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2029-stone-game-ix](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2029-stone-game-ix) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2255-count-prefixes-of-a-given-string) |
@@ -72,6 +73,7 @@
 | [0836-rectangle-overlap](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2029-stone-game-ix](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2029-stone-game-ix) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2607-make-k-subarray-sums-equal](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2607-make-k-subarray-sums-equal) |
 | [2769-find-the-maximum-achievable-number](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2769-find-the-maximum-achievable-number) |
@@ -221,6 +223,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0624-maximum-distance-in-arrays) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2029-stone-game-ix](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2029-stone-game-ix) |
 | [2607-make-k-subarray-sums-equal](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2607-make-k-subarray-sums-equal) |
 | [3523-make-array-non-decreasing](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3523-make-array-non-decreasing) |
 ## Monotonic Stack
@@ -261,6 +264,7 @@
 | [0169-majority-element](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0594-longest-harmonious-subsequence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2029-stone-game-ix](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -364,12 +368,19 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0877-stone-game) |
+| [2029-stone-game-ix](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0877-stone-game) |
+| [2029-stone-game-ix](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0877-stone-game) |
+| [2029-stone-game-ix](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
