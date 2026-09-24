@@ -48,6 +48,7 @@
 | [2255-count-prefixes-of-a-given-string](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2607-make-k-subarray-sums-equal](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2607-make-k-subarray-sums-equal) |
+| [2672-number-of-adjacent-elements-with-the-same-color](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2672-number-of-adjacent-elements-with-the-same-color) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3069-distribute-elements-into-two-arrays-i) |
