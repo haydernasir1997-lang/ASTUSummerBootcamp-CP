@@ -121,6 +121,7 @@
 | [0412-fizz-buzz](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0824-goat-latin](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0824-goat-latin) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
