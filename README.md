@@ -98,6 +98,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0594-longest-harmonious-subsequence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -127,6 +128,7 @@
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2255-count-prefixes-of-a-given-string) |
 | [3110-score-of-a-string](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/3110-score-of-a-string) |
@@ -272,6 +274,7 @@
 | [0169-majority-element](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/0594-longest-harmonious-subsequence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2029-stone-game-ix](https://github.com/haydernasir1997-lang/ASTUSummerBootcamp-CP/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
